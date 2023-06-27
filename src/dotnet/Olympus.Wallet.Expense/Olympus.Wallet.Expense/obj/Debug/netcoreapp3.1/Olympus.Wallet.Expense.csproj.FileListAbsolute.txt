@@ -1,0 +1,10 @@
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\bin\Debug\netcoreapp3.1\Olympus.Wallet.Expense.deps.json
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\bin\Debug\netcoreapp3.1\Olympus.Wallet.Expense.dll
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\bin\Debug\netcoreapp3.1\Olympus.Wallet.Expense.pdb
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.csproj.AssemblyReference.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.AssemblyInfoInputs.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.AssemblyInfo.cs
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.csproj.CoreCompileInputs.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.dll
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Expense\Olympus.Wallet.Expense\obj\Debug\netcoreapp3.1\Olympus.Wallet.Expense.pdb

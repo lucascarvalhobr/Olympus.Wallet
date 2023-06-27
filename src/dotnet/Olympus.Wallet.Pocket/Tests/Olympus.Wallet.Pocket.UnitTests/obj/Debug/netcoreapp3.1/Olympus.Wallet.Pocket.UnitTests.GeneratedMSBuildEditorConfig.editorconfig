@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Olympus.Wallet.Pocket.UnitTests
+build_property.ProjectDir = C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Tests\Olympus.Wallet.Pocket.UnitTests\

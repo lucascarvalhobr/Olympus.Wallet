@@ -1,0 +1,10 @@
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\bin\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.deps.json
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\bin\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.dll
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\bin\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.pdb
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.csproj.AssemblyReference.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.AssemblyInfoInputs.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.AssemblyInfo.cs
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.csproj.CoreCompileInputs.cache
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.dll
+C:\Projects\Olympus.Wallet\src\dotnet\Olympus.Wallet.Pocket\Olympus.Wallet.Pocket.Infra\obj\Debug\netcoreapp3.1\Olympus.Wallet.Pocket.Infra.pdb
