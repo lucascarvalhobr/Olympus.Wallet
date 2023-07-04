@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Olympus.Wallet.Expense\Olympus.Wallet.Expense.csproj" />
+  </ItemGroup>
+
 </Project>

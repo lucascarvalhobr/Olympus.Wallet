@@ -1,0 +1,24 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "Description": {
+      "type": "string"
+    },
+    "Type": {
+      "type": "string",
+      "enum": [ "Unknown", "Stream", "Restaurants", "Stores", "Market" ]
+    },
+    "Value": {
+      "type": "number"
+    },
+    "Date": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "Note": {
+      "type": "string"
+    }
+  },
+  "required": [ "Description", "Type", "Value", "Date" ]
+}
